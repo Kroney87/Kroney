@@ -1,0 +1,4 @@
+Project Ideas:
+1) - \\ to // converter
+2) - Stopwatch
+3) - Counter GUI
